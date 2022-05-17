@@ -9,4 +9,3 @@ echo "sudp apt-get upgrade"
 sudo apt-get upgrade 
 echo "sudo apt upgrade"
 sudo apt upgrade
-
